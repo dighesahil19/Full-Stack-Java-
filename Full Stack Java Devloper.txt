@@ -1,0 +1,45 @@
+1] UI Development Frontend development (Frontend Developer)
+
+ - HTML
+ - CSS
+ - JS
+ - TS
+ - BOOTSTRAP
+ - ANGULAGR
+ - REACT
+
+2] Backend Development Middleware Development (Backend Developer)
+
+ - Core Java
+ - Advance Java
+ - JSP
+ - SERVLET
+ - SPRING
+ - Web Services 
+ - Micro Services 
+ - Rest API
+ - Spring Security 
+ - Payment Gateway API Integration
+ - HIBERNATE
+ - JDBC
+ - Spring Data JPA
+ - JPA
+ - DSA
+ - System Design
+
+3] DATABASE DEVELOPENT (Database Developer)
+
+ - MYSQL
+ - ORACAL
+ - MONGODB
+
+4] Project Development Tools 
+
+ - Git 
+ - GIT - HUB
+ - JIRA
+ - TRLLO
+ - JENKIN 
+ - KUBRNATIES
+ - LAMBOOK
+ - POSTMAN 

@@ -1,0 +1,28 @@
+Day1 :-
+ -Java is OPP Language.
+ -In Object Orientead Programming Languages Variables and methods are the part of class.
+
+#_Prirnting Statment : 
+
+  -To Print any text message or  variable on output screen ( Console ).
+  -To print anything on console we will use output streame.
+
+
+
+      ( System.out.println )
+
+
+#-write a program Area of Square 
+
+
+  Public Class Areaof Square
+   {
+     Public Static Void Main
+      { 
+        int side = 10;
+       int area = side*side;
+      System.out.println(area);
+     
+
+      } 
+  }

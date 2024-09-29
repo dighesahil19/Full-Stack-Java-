@@ -1,0 +1,24 @@
+JDK | JRE | JVM
+
+ JDK :- Java Development KIT.
+ JRE :- Java Runtime ENV
+ JVM :- Java Virtual Machine 
+ API :- Application Programming Interface.
+
+JDK :- [Devlopment] / Compiler / Execution
+                     _____________________________________
+                    |                                    |
+1] JVM :-           |                                    | 
+                    |                                    |
+   Class Loader     |                                    |
+                    |                                    |
+  JVM Memory Area   |                                    |
+                    |                                    |
+  Executon Engine   |                                    |
+                    |                                    |
+                    |                                    |
+                    |____________________________________|
+
+GC Garbage Collector 
+JVM (Arciture)  
+  
